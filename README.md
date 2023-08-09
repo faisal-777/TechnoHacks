@@ -1,2 +1,2 @@
 # TechnoHacks
-This repository contains tasks solutions done in TechnoHacks EduTech python internship.
+This repository contains tasks solutions done in TechnoHacks EduTech Python Internship.
